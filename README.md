@@ -19,7 +19,7 @@ Ensure you have **Python 3.7+** installed on your system.
 1. Clone the repository:
    ```sh
    git clone https://github.com/shezafatima/Personal-Library-Manager-CLI.git
-   cd personal-library-manager-cli
+   cd Personal-Library-Manager
    ```
 2. Run the program:
    ```sh
